@@ -24,6 +24,10 @@ Many skills in this repo are open source (Apache 2.0). We've also included the d
 - [./spec](./spec): The Agent Skills specification
 - [./template](./template): Skill template
 
+# Local Docs
+- [./docs/agents-and-skills-summary.md](./docs/agents-and-skills-summary.md): concise differences and usage guidance.
+- [./docs/dialog-summary-2026-01-21.md](./docs/dialog-summary-2026-01-21.md): session summary for recent skill work.
+
 # Try in Claude Code, Claude.ai, and the API
 
 ## Claude Code
